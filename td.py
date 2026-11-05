@@ -16,7 +16,7 @@ yash = st.number_input(
     
 )   
 
-sherler = st.selectbox("Doguldugunuz seher?",["Baki", "Shemkir", "Gence"]
+sherler = st.selectbox("Doguldugunuz seher?",["Baki", "Shemkir", "Gence","Tovuz"]
 )
 
 def adami_save_et(*args):
